@@ -1,0 +1,89 @@
+.heading{
+    /* margin-top: 10px;
+    margin-left: 10px; */
+    margin-right: 30px;
+    font-weight: bolder;
+    font-size: 40px;
+    padding: 50px;
+}
+.font-awesome{
+    color: red;
+    margin-left: 900px;
+    margin-top: 10px;
+    font-weight: bolder;
+    font-size:30px;
+    padding: 50px;
+}
+.flex-container{
+    /* margin: 70px 300px 10px 400px; */
+    display: flex;
+    color: red; 
+    font-weight: bolder;
+    font-size: larger;
+    align-content: center;
+    text-align: center;    
+}
+.flex-items{
+    height: 250px;
+    width: 250px;
+    padding-top: 30px;
+    border: 2px solid red;
+    border-radius: 15px;
+    white-space: nowrap;
+    display: flex;
+    margin-left: 150px;
+    flex-direction: column; 
+}
+.flex-items1{
+    display: flex;
+    margin-left:120px;
+    margin-top: 0px;
+}
+.flex-items2{
+    display: flex;
+    margin-left: 120px;
+}
+.flex-items3{
+    margin-top: 50px;
+    display: flex;
+    margin-left: 550px;
+}
+.flex-items4{
+    margin-top: 200px;
+    margin-left: 550px;
+    display: flex;
+    /* position: absolute; */
+}
+.button{
+    padding: 40px;
+    font-size: larger;
+    font-weight: bolder;
+}
+h1{
+    font-weight: bolder;
+    font-size: 40px;
+    text-align: center;
+    position: relative;
+}
+.image{
+    background-image: url("./7suGLH.jpg");
+    background-size: cover;
+    filter: blur(1px);
+    background-repeat: no-repeat;
+    background-position: center center;
+    height: 100%;
+
+}
+.list{
+    color: red;
+    border-radius: 20px;
+    display: flex;
+    margin-left: 300px;
+    height: 200px;
+    width: 200px;
+
+}
+.icon{
+    padding: 120px;
+    margin-left: 80px;
+}
